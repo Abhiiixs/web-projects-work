@@ -1,2 +1,1 @@
-# web-projects-work
-(https://abhiiixs.github.io/web-projects-work/)
+# web-projects-work (https://abhiiixs.github.io/web-projects-work/)
